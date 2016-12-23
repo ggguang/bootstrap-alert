@@ -1,4 +1,4 @@
-# bootstrap-alert 不谈窗的alert通知
+# bootstrap-alert 不弹窗的alert通知
 
 > author：`skinnyguang`
 
