@@ -1,6 +1,6 @@
 # bootstrap-alert 不弹窗的alert通知
 
-> author：`skinnyguang`
+> author：`ikaiguang`
 
 ## 演示地址
 
