@@ -4,7 +4,7 @@
 
 ## 演示地址
 
-> <a href="http://demo.phpcollege.org/bootstrap-alert/index.html" title="bootstrap-alert" target="_blank">bootstrap-alert</a>
+> <a href="#" title="bootstrap-alert" target="_blank">bootstrap-alert</a>
 
 ## 关于 ：`bootstrap-alert`
 
@@ -27,6 +27,6 @@
 
 ##### 源码
 
-> oschina ：<a href="https://git.oschina.net/skinnyguang/bootstrap-alert" title="bootstrap-alert" target="_blank">bootstrap-alert</a>
+> oschina ：<a href="https://gitee.com/ikaiguang/bootstrap-alert" title="bootstrap-alert" target="_blank">bootstrap-alert</a>
 
-> github ：<a href="https://github.com/skinnyguang/bootstrap-alert" title="bootstrap-alert" target="_blank">bootstrap-alert</a>
+> github ：<a href="https://github.com/ikaiguang/bootstrap-alert" title="bootstrap-alert" target="_blank">bootstrap-alert</a>
